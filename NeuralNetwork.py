@@ -20,7 +20,7 @@ class NeuralNetwork:
         self.mutationRate = 0.05
 
     @staticmethod
-    def softmaxActivation(inputLayer: list[int]):
+    def softmaxActivation(inputLayer: list):
         suma = 0
         output = inputLayer.copy()
         largest = max(output)
@@ -78,7 +78,7 @@ class NeuralNetwork:
 
         return output
 
-    def runNetwork(self, inputLayer: list[int]):
+    def runNetwork(self, inputLayer: list):
         newInput = inputLayer.copy()
         #print(newInput)
         if len(newInput) != len(self.neuralNetwork[0]):
