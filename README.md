@@ -1,5 +1,13 @@
 # Acimdes Vesion 1.0
 
+IP adrene, odnosno DNS imena su hardcodirana.
+
+Moguće je pokrenuti i sva 4 igraća lokalno.
+
+Za treniranje bota pokrenuti "AcimdesTrainingServer.py".
+
+Za igranje protiv botova pokrenuti "AcimdesWith3Bots.py".
+
 Copyright 2020 Ivan Derdić
 
 Licensed under the Apache License, Version 2.0 (the "License");
