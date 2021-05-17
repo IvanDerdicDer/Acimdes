@@ -8,6 +8,10 @@ Za treniranje bota pokrenuti "AcimdesTrainingServer.py".
 
 Za igranje protiv botova pokrenuti "AcimdesWith3Bots.py".
 
+
+
+
+
 Copyright 2020 Ivan Derdić
 
 Licensed under the Apache License, Version 2.0 (the "License");
